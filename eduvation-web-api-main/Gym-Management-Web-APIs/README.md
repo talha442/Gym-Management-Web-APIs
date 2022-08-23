@@ -1,2 +1,0 @@
-# Gym Management Web APIs
- 
